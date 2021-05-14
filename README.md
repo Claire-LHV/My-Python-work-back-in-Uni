@@ -1,2 +1,3 @@
-# My-Python-work-back-in-Uni
-This reposittory is a copy of a part of my work for a Data Science unit when I was in Uni.
+# Heatmaps showing traffic flow using Opal data
+* HeatmapsforOpaldata.ipynb shows how I created heatmaps for trafic flow for a specific location (suburd 2000) using only bus Opal tap on and off data.
+* This work was my contribution in a group project - assessment, prepared for COMP2200 Data Science 2020.
